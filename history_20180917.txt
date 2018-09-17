@@ -20,3 +20,125 @@
    20  ls -al
    21  history
    22  history > history_20180917.txt
+   23  ls
+   24  cat history_20180917.txt 
+   25  who
+   26  whoami
+   27  pwd
+   28  ls
+   29  ls -l
+   30  cd Music/
+   31  pwd
+   32  ls
+   33  ls -l
+   34  ls -a
+   35  ls - la
+   36  ls -la
+   37  cd
+   38  pwd
+   39  cd .
+   40  pwd
+   41  cd Music/
+   42  cd .
+   43  pwd
+   44  cd ..
+   45  pwd
+   46  ls -la
+   47  cd .
+   48  pwd
+   49  cd ..
+   50  pwd
+   51  cd ..
+   52  pwd
+   53  cd ..
+   54  pwd
+   55  cd /home/user
+   56  cd ..
+   57  pwd
+   58  cd /home/user
+   59  cd -
+   60  pwd
+   61  cd /
+   62  pwd
+   63  cd
+   64  pwd
+   65  cd ../../
+   66  pwd
+   67  cd home/user/
+   68  pwd
+   69  cd D
+   70  pws
+   71  pwd
+   72  mkdir ManaMape
+   73  ls
+   74  ls -l
+   75  cd ManaMape/
+   76  pwd
+   77  ls
+   78  ls -la
+   79  cd ..
+   80  pwd
+   81  rmdir ManaMape/
+   82  ls -l
+   83  mkdir ManaMape
+   84  cd ManaMape/
+   85  mkdir ManaPapildusMape
+   86  cd ManaPapildusMape/
+   87  pwd
+   88  cd
+   89  ls
+   90  rmdir ManaMape/ManaPapildusMape/
+   91  man rm
+   92  rm -r ManaMape/
+   93  ls
+   94  man echo
+   95  echo "Teksts"
+   96  echo "Teksts\nTeksts\nTeksts"
+   97  man echo
+   98  echo -e "Teksts\nTeksts\nTeksts"
+   99  echo "Teksts" > failsl.txt
+  100  ls -l
+  101  cat fails.txt
+  102  failsl.txt
+  103  cat failsl.txt
+  104  cat /home/user/failsl.txt
+  105  cat sleep
+  106  cd
+  107  ls -l
+  108  echo "Cits teksts" > failsl.txt
+  109  ls -l
+  110  echo "Teksts" > failsl.txt
+  111  cat failsl.txt
+  112  echo "Cits teksts" > failsl.txt
+  113  cat failsl.txt
+  114  chmod 500 failsl.txt
+  115  ls -l
+  116  echo "Pavisam cits teksts" > failsl.txt
+  117  echo "Cits teksts" >>../ failsl.txt
+  118  pwd
+  119  nano failsl.txt
+  120  ls -l
+  121  cp fails2.txt fails3.txt
+  122  ls -l
+  123  mv failsl.txt Music/
+  124  ls -l
+  125  cd Music/
+  126  ls -l
+  127  cd ..
+  128  ls
+  129  mv fails*.txt Music/
+  130  cd Music/
+  131  ls
+  132  mv fails3.txt fails4.txt
+  133  ls
+  134  mv failsl.txt ../fails101.txt
+  135  ls
+  136  cd ..
+  137  ls
+  138  mv Music/*.txt ./
+  139  ls
+  140  rm fails*.txt
+  141  ls
+  142  rm fails*.txt
+  143  ls
+  144  history > history_20180917.txt 

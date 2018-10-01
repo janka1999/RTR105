@@ -38,6 +38,9 @@ Lai sakārtotu termināli jānospiež: **_ctrl+l_**
 *cp fails.txt* - izveidot dublikātu dokumentam fails.txt  
 *mv fails*.txt /Musik - pārvietot visus dokumentus ar sākuma vārdu fails uz mapi Musik  
 **=** labās puses informāciju piešķir kreisajai pusei  
-
-
+*python* - jauna rakstīšanas vide
+*ipython* - papildinātā versija python
+*idle &* - cita rakstīšanas vide
+*print(...)* - informācijas izvade
+*vars()* - parāda informāciju vidē (arī mainīgos)
 

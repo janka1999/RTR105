@@ -1,0 +1,34 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  cd
+    5  ls -l
+    6  git clone https://github.com/janka1999/rtr105
+    7  ls -l
+    8  cd rtr105/
+    9  python
+   10  ipython
+   11  idle &
+   12  ls
+   13  ls -l
+   14  whereis python
+   15  nano test_1.py
+   16  python test_1.py
+   17  nano test_1.py
+   18  python test_1.py
+   19  nano test_1.py
+   20  python test_1.py
+   21  ./test_1.py
+   22  ls -l
+   23  chmod 764 test_1.py
+   24  ./test_1.py
+   25  nano test_1.py
+   26  ./test_1.py
+   27  nano test_1.py
+   28  ./test_1.py
+   29  nano test_1.py
+   30  ./test_1.py
+   31  python idle test_1.py & 
+   32  ./test_1.py
+   33  ls -l
+   34  history > history_20181001b.txt

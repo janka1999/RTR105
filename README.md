@@ -37,5 +37,7 @@ Lai sakārtotu termināli jānospiež: **_ctrl+l_**
 *mv fails.txt* - pārvietot dokumentu ar nosaukumu fails.txt  
 *cp fails.txt* - izveidot dublikātu dokumentam fails.txt  
 *mv fails*.txt /Musik - pārvietot visus dokumentus ar sākuma vārdu fails uz mapi Musik  
+**=** labās puses informāciju piešķir kreisajai pusei  
+
 
 

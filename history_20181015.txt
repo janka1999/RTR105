@@ -7,3 +7,6 @@
     7  ./git-upload 20181015_10_42
     8  cd RTR105
     9  history>history_20181015.txt
+   10  ./git-upload 20181015_10_43
+   11  idle
+   12  history>history_20181015.txt

@@ -1,0 +1,10 @@
+import sys
+sys.path.append('/usr/local/anaconda3/lib/python3.6/site-packages')
+
+from numpy import sin,linspace
+
+x = linspace(0, 4, 11)
+print(x)
+y = sin(x)
+print(y)
+
